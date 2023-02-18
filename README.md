@@ -1,4 +1,4 @@
-# ALURA-Linguagem-C
+# alura-linguagem-c
 Formação em linguagem C da plataforma Alura.
 Essa formação é composta por 3 diferentes cursos, que são:
   C: Conhecendo a Linguagem das Linguagens
